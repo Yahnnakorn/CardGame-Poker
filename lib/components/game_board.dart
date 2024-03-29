@@ -4,7 +4,6 @@ import 'package:cardgame/components/discard_pile.dart';
 import 'package:cardgame/components/player_info.dart';
 import 'package:cardgame/models/card_model.dart';
 import 'package:cardgame/models/player_model.dart';
-import 'package:cardgame/providers/crazy_eights_game_provider.dart';
 import 'package:cardgame/providers/thirty_one_game_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

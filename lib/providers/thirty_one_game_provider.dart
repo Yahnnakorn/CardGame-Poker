@@ -77,6 +77,9 @@ class ThirtyOneGameProvider extends GameProvider {
           case Suit.Spades:
             spadesPoints += points;
             break;
+          case Suit.Other:
+            // TODO: Handle this case.
+            break;
         }
       }
 
