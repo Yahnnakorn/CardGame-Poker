@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter Card Game
 
 ### Overview
@@ -27,3 +28,6 @@ We'll also have some fun coding some AI for our bot players and making use of in
 - Class Inheritance
 - VS Code refactoring / tips
 - AI
+=======
+# CardGame-Poker
+>>>>>>> 4102224876006122c47e3eb7cbae26883da68f42
